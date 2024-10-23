@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("👋🏻 연수 실습 페이지(1023)")
 st.subheader("안녕하세요")
-st.write("안녕안녕하세요.")
+st.write("안녕안녕안녕하세요.")
 st.write("https://padlet.com/sbhath17/sw-ai-streamlit-fuyp1hmna3pr9n9i")
 st.link_button("아현 github 페이지 바로가기!", "https://github.com/kahenglish")
 
